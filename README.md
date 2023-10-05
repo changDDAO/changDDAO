@@ -22,9 +22,7 @@
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
 </div>
 <br>
-<div align="center">
-	<h3>Experiences</h3>
-	</div>
+###Experiences
  | Organization | Type       | Period                         |
         |--------------|------------|--------------------------------|
         | 영남대학교      | 컴퓨터공학 학사 | ~Feb 2023 (graduated)   |
