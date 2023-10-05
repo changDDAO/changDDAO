@@ -38,8 +38,8 @@ React도 학습하며 BootCamp를 통해 성장중입니다.
 | 구름톤 트레이닝 | 풀스택 개발자 양성과정 | 2023.10.13 ~ 2024.4.22 |
 
 ### Algorithm level
-<h1>BaekJoon : Gold3</h1>
-<h1>Programmers : lv3</h1>
+<h4>BaekJoon : Gold3</h4>
+<h4>Programmers : lv3</h4>
 
 ### Github
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=changDDAO&layout=compact">
