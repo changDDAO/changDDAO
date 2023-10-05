@@ -3,10 +3,10 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=ChangDDAO%20GitHub&fontSize=40" />
 
 
-
-	<h3>📚 Tech Stack 📚</h3>
-	<p>✨ Platforms & Languages ✨</p>
-
+<div>
+<h3>📚 Tech Stack 📚</h3>
+<p>✨ Platforms & Languages ✨</p>
+</div>
 
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
