@@ -37,4 +37,13 @@ React도 학습하며 BootCamp를 통해 성장중입니다.
 | 인프런      | BackEnd Developer Course | Jan 2023 ~ Aug 2023 |
 | 구름톤 트레이닝 | 풀스택 개발자 양성과정 | 2023.10.13 ~ 2024.4.22 |
 
+<div>
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=changDDAOc&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=kycasdzxc&show_icons=true">
+
+![changDDAO's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=changDDAO)
+<br>
+</div>
+
 
