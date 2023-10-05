@@ -23,6 +23,7 @@
 </div>
 <br>
 ###Experiences
+
 | Organization | Type       | Period                         |
 |--------------|------------|--------------------------------|
 | 영남대학교   | 컴퓨터공학 학사 | ~Feb 2023 (graduated)   |
