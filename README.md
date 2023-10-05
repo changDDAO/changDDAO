@@ -26,9 +26,10 @@
 	<h3>Experiences</h3>
 </div>
 ### Experiences
+<div align ="center">
 | Organization | Type       | Period                         |
 |--------------|------------|--------------------------------|
 | 영남대학교      | 컴퓨터공학 학사 | ~Feb 2023 (graduated)            |
 | 인프런      | BackEnd Developer Course | Jan 2023 ~ Aug 2023 |
 | 구름톤 트레이닝 | 풀스택 개발자 양성과정 | 2023.10.13 ~ 2024.4.22 |
-
+</div>
