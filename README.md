@@ -40,6 +40,7 @@ React도 학습하며 BootCamp를 통해 성장중입니다.
 <div>
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=changDDAO&layout=compact">
+<br>
 <img src="https://github-readme-stats.vercel.app/api?username=changDDAO&show_icons=true">
 <br>
 </div>
