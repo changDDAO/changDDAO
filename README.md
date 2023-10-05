@@ -1,8 +1,9 @@
 
+<div>
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=ChangDDAO%20GitHub&fontSize=40" />
 
 
-<div align="left">
+
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Platforms & Languages ✨</p>
 
