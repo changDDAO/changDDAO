@@ -1,5 +1,3 @@
-### Hi there I.m changDDAO👋
-
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="z-index:1;position:relative" width="854" height="300" viewBox="0 0 854 300">
                 <style>
                             .text {
