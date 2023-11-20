@@ -6,9 +6,10 @@
 
 ### Introduce myself
 
-SpringBoot와 JPA 및 QueryDsl을 사용하여 BackEnd 개발을 하며 
-현재 구름톤 풀스택 개발자 양성과정에 최종 선발되어
-React도 학습하며 BootCamp를 통해 성장중입니다.
+SpringBoot와 JPA 및 QueryDsl을 사용하여 BackEnd 개발을 주로 하였으나, <br>
+Front 개발에도 많은 흥미를 가지고 있습니다. React와 Typescript를 학습하였고,<br>
+현재 구름톤 풀스택 부트캠프를 통해 풀스택으로 성장중입니다.
+
 
 <div>
 <h3>📚 Tech Stack 📚</h3>
