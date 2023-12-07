@@ -55,7 +55,6 @@ Programmers : lv3
 
 ### Github
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=changDDAO&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api?username=changDDAO&show_icons=true">
 <br>
 
 
