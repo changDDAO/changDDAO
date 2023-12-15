@@ -11,11 +11,6 @@ Front 개발에도 많은 흥미를 가지고 있습니다. React와 Typescript�
 현재 구름톤 풀스택 부트캠프를 통해 풀스택으로 성장중입니다.
 
 
-<div>
-<h3>📚 Tech Stack 📚</h3>
-<p>✨ Platforms & Languages ✨</p>
-</div>
-
 <h4>🙉자격증🙉</h4>
 정보처리기사, SQLD, 컴활 1급
 </div>
