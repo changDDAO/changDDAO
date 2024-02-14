@@ -7,8 +7,8 @@
 ### Introduce myself
 
 SpringBoot와 JPA 및 QueryDsl을 사용하여 BackEnd 개발을 주로 하였으나, <br>
-Front 개발에도 많은 흥미를 가지고 있습니다. React와 Typescript를 학습하였고,<br>
-현재 구름톤 풀스택 부트캠프를 통해 풀스택으로 성장중입니다.
+Front 개발에도 많은 흥미를 가지고 있습니다. js, ts, react, quasar등을 학습하였습니다:)<br>
+
 
 
 <h4>🙉자격증🙉</h4>
