@@ -6,8 +6,8 @@
 
 ### Introduce myself
 
-SpringBoot와 JPA 및 QueryDsl을 사용하여 BackEnd 개발을 주로 하였으나, <br>
-Front 개발에도 많은 흥미를 가지고 있습니다. js, ts, react등을 학습하였습니다:)<br>
+JAVA Backend Developer입니다. <br>
+<br>
 
 </div>
 
