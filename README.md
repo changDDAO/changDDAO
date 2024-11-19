@@ -3,9 +3,7 @@
 <div>
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=changDDAO%20Github!&fontSize=90" />	
 </div>
-
-### Introduce myself<br/>
-<p>Backend Developer입니다.</p> 
+<p>다시, 천천히.</p>
 </div>
 
 
