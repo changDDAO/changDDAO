@@ -6,8 +6,7 @@
 
 ### Introduce myself
 
-JAVA Backend Developer입니다. <br>
-<br>
+<p>Backend Developer입니다.</p> <br>
 
 </div>
 
