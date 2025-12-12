@@ -6,9 +6,7 @@
 <p>A developer with creativity and insight beyond AI</p>
 </div>
 
-### Github
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=changDDAO&layout=compact">
-<br>
+
 
 
 
